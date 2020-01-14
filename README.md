@@ -1,0 +1,2 @@
+# newproject
+a training project
